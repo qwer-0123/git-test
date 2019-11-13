@@ -7,6 +7,9 @@ public class gitDemo1 {
         System.out.println("git第3次！！！");
         System.out.println("git第4次！！！");
         System.out.println("git第5次！！！");
+        int i = 10;
+        i++;
+        System.out.println(i++);
     }
     private void show(){
         System.out.println("死了都要秀！！！");
